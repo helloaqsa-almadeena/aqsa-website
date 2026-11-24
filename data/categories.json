@@ -1,0 +1,64 @@
+{
+ "categories": [
+  {
+   "icon": "🥬",
+   "name": "Fresh Fruits & Vegetables",
+   "image": ""
+  },
+  {
+   "icon": "🥛",
+   "name": "Dairy & Eggs",
+   "image": ""
+  },
+  {
+   "icon": "🥖",
+   "name": "Bakery",
+   "image": ""
+  },
+  {
+   "icon": "🥩",
+   "name": "Meat & Poultry",
+   "image": ""
+  },
+  {
+   "icon": "🐟",
+   "name": "Fish & Seafood",
+   "image": ""
+  },
+  {
+   "icon": "🍚",
+   "name": "Rice, Grains & Pulses",
+   "image": ""
+  },
+  {
+   "icon": "🥫",
+   "name": "Canned & Packaged Foods",
+   "image": ""
+  },
+  {
+   "icon": "🧂",
+   "name": "Spices & Cooking Essentials",
+   "image": ""
+  },
+  {
+   "icon": "🥤",
+   "name": "Beverages",
+   "image": ""
+  },
+  {
+   "icon": "🍫",
+   "name": "Snacks & Confectionery",
+   "image": ""
+  },
+  {
+   "icon": "🧼",
+   "name": "Household & Cleaning",
+   "image": ""
+  },
+  {
+   "icon": "🧴",
+   "name": "Personal Care",
+   "image": ""
+  }
+ ]
+}
