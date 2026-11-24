@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: aqsa-website.netlify.app   # <- change to your repository
+  repo: helloaqsa-almadeena/aqsa-website   # <- change to your repository
   branch: main
 media_folder: "uploads"
 public_folder: "/uploads"
